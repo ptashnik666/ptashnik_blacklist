@@ -1,6 +1,5 @@
 jbzd.com.pl##.main-footer
 m.jbzd.com.pl##.main-footer
 jbzd.com.pl##.sidebar-premium
-m.jbzd.com.pl##.sidebar-premium
-jbzd.com.pl##.mobile-premium
-m.jbzd.com.pl##.mobile-premium
+m.jbzd.com.pl##.footer-mobile-banner
+m.jbzd.com.pl##.user-mobile-panel-premium
