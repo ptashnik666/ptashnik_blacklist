@@ -1,2 +1,4 @@
 jbzd.com.pl##.main-footer
+m.jbzd.com.pl##.main-footer
 jbzd.com.pl##.sidebar-premium
+m.jbzd.com.pl##.sidebar-premium
