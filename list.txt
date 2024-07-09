@@ -6,7 +6,7 @@ m.jbzd.com.pl##.user-mobile-panel-premium
 jbzd.com.pl##[href^="https://orlenteam.pl/"]
 m.jbzd.com.pl##[href^="https://orlenteam.pl/"]
 
-filman.cc###belt
+filman.cc##belt
 filman.cc##.filman
 filman.cc###owl-slider > .owl-wrapper-outer > .owl-wrapper
 filman.cc##header
