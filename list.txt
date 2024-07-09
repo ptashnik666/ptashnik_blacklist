@@ -5,3 +5,25 @@ m.jbzd.com.pl##.footer-mobile-banner
 m.jbzd.com.pl##.user-mobile-panel-premium
 jbzd.com.pl##[href^="https://orlenteam.pl/"]
 m.jbzd.com.pl##[href^="https://orlenteam.pl/"]
+
+filman.cc###belt
+filman.cc##.filman
+filman.cc###owl-slider > .owl-wrapper-outer > .owl-wrapper
+filman.cc##header
+filman.cc##[href="https://filman.cc/android-apk"] > .img-responsive
+filman.cc##.text-center.alert-info.alert
+filman.cc###headline > .container > .row > .col-sm-12
+filman.cc##div.row:nth-of-type(6)
+filman.cc##div.row:nth-of-type(7)
+filman.cc##div.row:nth-of-type(8)
+filman.cc##div.row:nth-of-type(9)
+filman.cc##footer
+filman.cc###single-poster
+filman.cc##.text-left
+filman.cc##.text-right
+filman.cc##h4
+filman.cc###comments
+filman.cc###add-comment
+filman.cc###item-info > ul.list-inline > li
+filman.cc##hr
+filman.cc##.alert-info.alert
