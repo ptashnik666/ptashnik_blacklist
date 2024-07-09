@@ -1,3 +1,5 @@
+! JBZD
+
 jbzd.com.pl##.main-footer
 m.jbzd.com.pl##.main-footer
 jbzd.com.pl##.sidebar-premium
@@ -5,6 +7,8 @@ m.jbzd.com.pl##.footer-mobile-banner
 m.jbzd.com.pl##.user-mobile-panel-premium
 jbzd.com.pl##[href^="https://orlenteam.pl/"]
 m.jbzd.com.pl##[href^="https://orlenteam.pl/"]
+
+! FILMAN
 
 filman.cc###belt
 filman.cc##.filman
